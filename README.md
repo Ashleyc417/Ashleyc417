@@ -6,7 +6,7 @@ My name is Ashley and I am a second-year CS at California State University Fulle
 My passion lies in learning more about computer science, teaching others, being active, <br>
 and exploring new things!
 <p align="center">
-<br>
+<hr style="height:10px; visibility:hidden;" />
   
 <!--Languages, Tools, & Tech Icons-->
 <h3 align="center"> What I've Worked With: </h3>
@@ -20,7 +20,6 @@ and exploring new things!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black&color=gold" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=Markdown" style="vertical-align:top; margin:4px">
 </p>
-<br>
 
 <!--Resume-->
 <p align="center">
@@ -28,6 +27,7 @@ and exploring new things!
   📄<strong> Here's my </strong>
   <a href="https://github.com/Ashleyc417/resume"> <strong>resumé</strong></a> &nbsp <br> <br>
   
+
 <!--Stats Charts-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashleyc417&theme=tokyonight&hide_border=false" style="vertical-align:top; margin:4px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleyc417&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="vertical-align:top; margin:4px">
