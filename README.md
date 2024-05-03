@@ -2,11 +2,11 @@
 <h1 align="center">*.·:·.✧ Ashley Chan ✧.·:·.* </h1>
 <p align="center">
 Hello World! 🙂 <br /> <br />
-My name is Ashley and I am a second-year CS at California State University Fullerton! <br />
-My passion lies in learning more about computer science, teaching others, being active, <br />
-and exploring new things! 
+My name is Ashley and I am a second-year CS at California State University Fullerton! <br>
+My passion lies in learning more about computer science, teaching others, being active, <br>
+and exploring new things!
 <p align="center">
-<br />
+<br>
   
 <!--Languages, Tools, & Tech Icons-->
 <h3 align="center"> What I've Worked With: </h3>
@@ -20,21 +20,19 @@ and exploring new things!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black&color=gold" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=Markdown" style="vertical-align:top; margin:4px">
 </p>
-<br />
+<br>
 
 <!--Resume-->
 <p align="center">
+  <img src="https://img.shields.io/badge/Updated-9--13--23-lightgrey?logoColor=red"> <br>
   📄<strong> Here's my </strong>
-  <a href="https://github.com/Ashleyc417/resume"> <strong>resumé</strong></a> &nbsp
-  <img src="https://img.shields.io/badge/Updated-9--13--23-lightgrey?logoColor=red">
-<br />
-<br />
+  <a href="https://github.com/Ashleyc417/resume"> <strong>resumé</strong></a> &nbsp <br> <br>
   
 <!--Stats Charts-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashleyc417&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleyc417&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashleyc417&theme=tokyonight&hide_border=false" style="vertical-align:top; margin:4px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleyc417&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="vertical-align:top; margin:4px">
 </p>
+<br>
 
  <!--Projects--> 
 <h2 align="center"> Projects </h2>
