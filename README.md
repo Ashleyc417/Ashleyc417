@@ -43,7 +43,7 @@ and exploring new hobbies & technologies!
 - Implemented core game logic and functionality
 <br />
 
-#### 🌐 Simplify C++ - Documentation Website | FullyHacks 2023 🌐
+### 🌐 Simplify C++ - Documentation Website | FullyHacks 2023 🌐
 - Participated in the hackathon and developed a user-friendly documentation website for C++
 - Made a simple way for students and developers to learn C++ 
 - [Simplify C++](https://pillowgit.github.io/FullyHacks-2023)
