@@ -4,7 +4,7 @@
 Hello World! 🙂 <br /> <br />
 My name is Ashley and I am a second-year CS at California State University Fullerton! <br>
 My passion lies in learning more about computer science, teaching others, being active, <br>
-and exploring new things!
+and exploring new hobbies & technologies!
 <p align="center">
 <hr style="height:10px; visibility:hidden;" />
   
