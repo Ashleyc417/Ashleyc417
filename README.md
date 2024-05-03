@@ -7,7 +7,7 @@ My passion lies in learning more about computer science, teaching others, being 
 and exploring new things! 
 <p align="center">
 <br />
-
+  
 <!--Languages, Tools, & Tech Icons-->
 <h3 align="center"> What I've Worked With: </h3>
 <p align="center">
@@ -21,7 +21,6 @@ and exploring new things!
   <img src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=Markdown" style="vertical-align:top; margin:4px">
 </p>
 <br />
-
 
 <!--Stats Charts-->
 <!--add in the future-->
