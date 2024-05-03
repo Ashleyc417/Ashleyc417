@@ -22,15 +22,17 @@ and exploring new things!
 </p>
 <br />
 
-<!--Stats Charts-->
-<!--add in the future-->
-
 <!--Resume-->
 <p align="center">
   📄<strong> Here's my </strong>
   <a href="https://github.com/Ashleyc417/resume">resumé</a> 
   <img src="https://img.shields.io/badge/Updated-9--13--23-lightgrey?logoColor=red">
 </p>
+<br />
+
+<!--Stats Charts-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashleyc417&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleyc417&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br />
 
  <!--Projects--> 
