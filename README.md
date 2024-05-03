@@ -8,7 +8,7 @@ and exploring new things!
 <p align="center">
 <hr style="height:10px; visibility:hidden;" />
   
-<!--Languages, Tools, & Tech Icons-->
+<!--What I've Worked With-->
 <h3 align="center"> What I've Worked With: </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -20,6 +20,7 @@ and exploring new things!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black&color=gold" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=Markdown" style="vertical-align:top; margin:4px">
 </p>
+<br>
 
 <!--Resume-->
 <p align="center">
