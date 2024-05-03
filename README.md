@@ -25,7 +25,7 @@ and exploring new things!
 <!--Resume-->
 <p align="center">
   📄<strong> Here's my </strong>
-  <a href="https://github.com/Ashleyc417/resume">resumé</a> 
+  <a href="https://github.com/Ashleyc417/resume"> <strong>resumé</strong></a> &nbsp
   <img src="https://img.shields.io/badge/Updated-9--13--23-lightgrey?logoColor=red">
 <br />
 <br />
