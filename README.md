@@ -38,11 +38,6 @@ and exploring new hobbies & technologies!
  <!--Projects--> 
 <h2 align="center"> Projects </h2>
 
-### 🖥️ Tuffle - Wordle Recreation Backend 🖥️
-- Created the backend for "Tuffle," a recreation of the popular word game Wordle
-- Implemented core game logic and functionality
-<br />
-
 ### 🌐 Simplify C++ - Documentation Website | FullyHacks 2023 🌐
 - Participated in the hackathon and developed a user-friendly documentation website for C++
 - Made a simple way for students and developers to learn C++: [Simplify C++](https://pillowgit.github.io/FullyHacks-2023)
