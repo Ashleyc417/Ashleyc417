@@ -14,8 +14,8 @@ and exploring new hobbies & technologies!
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white&color=%23f89820" alt="html" style="vertical-align:top; margin:4px"> 
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=blue&color=black" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=NeoVim&color=darkgreen" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black&color=gold" style="vertical-align:top; margin:4px">
