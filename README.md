@@ -2,7 +2,7 @@
 <h1 align="center">*.·:·.✧ Ashley Chan ✧.·:·.* </h1>
 <p align="center">
 Hello World! 🙂 <br /> <br />
-My name is Ashley and I am a second-year CS at California State University Fullerton! <br>
+My name is Ashley and I am a third-year CS at California State University Fullerton! <br>
 My passion lies in learning more about computer science, teaching others, being active, <br>
 and exploring new hobbies & technologies!
 <p align="center">
